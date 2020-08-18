@@ -1,0 +1,50 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #3f51b5;
+}
+
+.App{
+    height: 200vh;
+}
+
+
+h1,h2,h3,p{
+    margin: 10px;
+    font-weight: lighter;
+    font-style: normal;
+    font-size: larger;
+}
+
+.brazil-paper{
+    width: 640px;
+    float: left;
+    margin: 15px;
+}
+
+.region-paper{
+    float: left;
+    width: 640px;
+    margin: 15px;
+}
+.region-paper button{
+    margin: 10px 0px 0px 30px;
+}
+
+.selection-area{
+    margin: 10px;
+}
+
+.footer{
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 160px;
+    text-align: center;
+    
+}
+
+.obs{
+    color:#3f51b5;
+}
